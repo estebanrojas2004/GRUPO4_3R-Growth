@@ -1,7 +1,7 @@
 Equipo e integrantes: Ian (Mercadeo y Estrategia Comercial), Martín (Ingeniería Industrial) y Esteban Rojas (Ingeniería de Sistemas).
-
+<BR>
 Nombre de la organización: Valeria Daza Consulting.
-
+<BR>
 A qué se dedica: consultoría empresarial, mentoría y formación en estrategia, innovación, transformación digital e IA, marketing y estrategia comercial, procesos y calidad. Está en Bogotá, desde 2018, y atiende emprendedores, MiPyMEs y organizaciones.
 
 Contacto y cargo: Valeria Ángel Daza, fundadora.
