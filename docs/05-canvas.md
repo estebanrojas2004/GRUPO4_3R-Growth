@@ -5,6 +5,7 @@ Fuentes: bloques 1 y 2: identificación de la organización y proceso actual (do
 Bloque
 Respuesta del equipo
 1
+<br>
 
 Problema de negocio
 En Valeria Daza Consulting no hay un proceso ordenado para captar, calificar y hacer seguimiento a prospectos pyme: depende del voz a voz, cada propuesta se arma desde cero y se pierden prospectos por seguimiento tardío, sin medición por etapa. Frases de la entrevista: "Todo está regado" (prospectos en Excel y WhatsApp, propuestas en Word o PowerPoint); "No sé cuántos prospectos pierdo ni en qué etapa". Este bloque no nombra solución ni tecnología.
