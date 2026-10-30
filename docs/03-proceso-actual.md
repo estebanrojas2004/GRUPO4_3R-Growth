@@ -2,6 +2,8 @@
 !BPMN de práctica
 BPMN de práctica: Proceso de Inscripción - Fundación Semillas del Barrio. Es el ejemplo del docente, no el proyecto del equipo.
 Declaración de IA: Muse – 26/10/2026 – prompt registrado en docs/11-uso-ia.md
+<br>
+
 2. El proceso elegido
 Campo
 Detalle
