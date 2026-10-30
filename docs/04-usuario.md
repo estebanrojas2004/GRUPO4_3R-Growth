@@ -53,14 +53,16 @@ Dolores
 10. ¿Cuándo fue la última vez que tuvo un problema y qué pasó?
 "Hace unas semanas un cliente que ya estaba casi cerrado dejó de contestar. Se me pasó hacerle seguimiento a tiempo y cuando lo retomé ya había contratado a otra persona."
 Ganancias
-11. Si el proceso funcionara perfecto, ¿qué cambiaría en su día?
+<br>
+
+12. Si el proceso funcionara perfecto, ¿qué cambiaría en su día?
 "Tendría más tiempo para consultoría real y menos para perseguir clientes. Dormiría más tranquila sabiendo que hay prospectos en camino."
-12. ¿Qué le ayudaría a ahorrar tiempo, dinero o esfuerzo?
+13. ¿Qué le ayudaría a ahorrar tiempo, dinero o esfuerzo?
 "Plantillas de propuesta, un CRM sencillo con recordatorios de seguimiento y una página que me ayude a captar y calificar prospectos antes de la llamada."
 Proceso actual en Valeria Daza Consulting (escritas por el equipo)
-13. ¿Cómo decide si una empresa pyme es un buen cliente para usted y cómo la califica antes de ofrecerle una propuesta?
+14. ¿Cómo decide si una empresa pyme es un buen cliente para usted y cómo la califica antes de ofrecerle una propuesta?
 "Casi por intuición. Miro el tamaño, si el dueño toma decisiones rápido y si parece tener presupuesto. No tengo criterios escritos. Prefiero pymes porque las grandes me piden procesos muy largos y me arriesgo a quedar dependiendo de un solo cliente."
-14. ¿Cómo mide hoy si su proceso comercial funciona (prospectos, propuestas enviadas, cierres)?
+15. ¿Cómo mide hoy si su proceso comercial funciona (prospectos, propuestas enviadas, cierres)?
 "No lo mido bien. Solo sé cuántos clientes tengo activos a fin de mes. No sé cuántos prospectos pierdo ni en qué etapa."
 4. Resultados
 Resultados de la entrevista: resultados-entrevista.md
