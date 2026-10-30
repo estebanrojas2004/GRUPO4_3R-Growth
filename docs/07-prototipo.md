@@ -1,6 +1,7 @@
 07 · Prototipo
 Hipótesis del prototipo
 
+<Br>
 
 Qué vamos a construir
 Una página web para registrar, calificar y hacer seguimiento a los prospectos pyme de Valeria Daza Consulting.
