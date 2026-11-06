@@ -1,4 +1,4 @@
-Resultados de la entrevista
+Resultados de la entrevista <br>
 Usuario: Valeria Daza, fundadora y consultora, Valeria Daza Consulting, área Comercial.
 Proceso: captación y cierre de clientes pyme.
 Fecha y hora: por completar. Medio: videollamada. Publicación autorizada: sí.
